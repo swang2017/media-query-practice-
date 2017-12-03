@@ -1,0 +1,132 @@
+.header{
+  display: inline block;
+
+  margin-left:30px;
+  margin-right:50px;
+  padding:30px;
+  position:relative;
+  background-color: #41b8f4;
+  color:white;
+  font-size: 70px;
+  font-weight: normal;
+  font-family: sans-serif;
+}
+ul {
+
+  display:inline-block;
+  list-style: none;
+  text-decoration-line: none;
+}
+ul li{
+  display:inline-block;
+  text-decoration-line: none;
+}
+a {
+  padding:20px;
+  display:inline-block;
+  text-decoration: none;
+  color:white;
+  font-size: 30px;
+  font-weight: normal;
+  font-family: sans-serif;
+}
+
+a:active{
+  font-weight: bold;
+
+}
+
+.p{
+  background-color: lightgray;
+  margin-left: 100px;
+  margin-right: 140px;
+  font-family: sans-serif;
+
+}
+
+.header2{
+  margin-botom:10px;
+  margin-top:10px;
+}
+
+.p1{
+
+  margin-left: 100px;
+  margin-right: 140px;
+  padding-top:30px;
+  padding-bottom:30px;
+  font-family: sans-serif;
+}
+
+.p2{
+
+  margin-left: 70px;
+  margin-right: 100px;
+  padding-top:30px;
+  padding-bottom:30px;
+  font-family: sans-serif;
+}
+
+.comments{
+  background-color: orange;
+  margin-left: 100px;
+  margin-right: 140px;
+  padding-top:1px;
+  padding-bottom:1px;
+  font-family: sans-serif;
+  color:white;
+  list-style: none;
+}
+/*
+.ulblock{
+
+  margin-left:100px;
+  margin-right:50px;
+
+
+}
+.ul{
+  background-color: lightgray;
+  padding:100px;
+  margin:20px;
+  text-decoration:none;
+  display:inline-block;
+  width:100px;
+  height:100px;
+  text-align: center;
+  font-size-adjust: auto;
+  font-family: sans-serif;*/
+}
+.commentli{
+  text-decoration: none;
+  text-align: left;
+  margin-right:20px;
+  display: inline-block;
+  list-style: none;
+}
+.commentul{
+  padding:0px;
+}
+.categoryh1{
+  text-align: center;
+}
+
+.divcategory{
+  width:300px;
+  height:300px;
+  background-color:lightgray;
+  display:inline-block;
+  margin-left:30px;
+  margin-right:30px;
+  text-align:center;
+  vertical-align: middle;
+  margin-top:30px;
+  margin-bottom:30px;
+  flex-wrap:wrap;
+}
+
+.category-title{
+  font-size:50px;
+  margin-top: 100px;
+  vertical-align: middle;
+}
